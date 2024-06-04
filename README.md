@@ -1,4 +1,4 @@
-# Instagram Signup
+# Instagram User Interface
 
 This project contains a simple React functional component for the signup/login interface for a platform resembling Instagram. The interface dynamically switches between login and signup forms based on user interaction.
 
